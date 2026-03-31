@@ -10,8 +10,8 @@ https://DiogoAzvd.github.io/Svg-Editor/
   - Clique esquerdo para selecionar um elemento
   - Shift + clique esquerdo para selecionar múltiplos elementos
 - Transformações:
- - Translate (Mover): Pressione T
- - Rotate (Rotacionar): Pressione R
- - Scale (Escalar): Pressione S
+  - Translate (Mover): Pressione T
+  - Rotate (Rotacionar): Pressione R
+  - Scale (Escalar): Pressione S
 - Entrada de valores: Durante uma transformação, é possível inserir valores diretamente pelo teclado para maior precisão.
 - Travamento de eixo: Durante a transformação, pressione X ou Y para restringir o movimento ao respectivo eixo.
