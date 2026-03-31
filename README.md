@@ -1,6 +1,6 @@
 ## Protótipo – SVG Editor
 
-https://DiogoAzvd.github.io/Svg-Editor/
+https://diogoazvd.github.io/Svg-Editor/
 
 ## Funcionalidades
 - Zoom: Utilize o scroll do mouse (mouse wheel) para aproximar ou afastar a visualização.
